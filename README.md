@@ -14,3 +14,5 @@ Using Python, do the following:
 It was from the 'Python Technologist Application Test' of Nagwa Company.
 
 And this project was my answer.
+
+Note that you should have your own "client_secret.json" which is called in line 36 of the scrapbooks.py!
