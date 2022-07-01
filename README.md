@@ -16,3 +16,4 @@ It was from the 'Python Technologist Application Test' of Nagwa Company.
 And this project was my answer.
 
 Note that you should have your own "client_secret.json" which is called in line 36 of the scrapbooks.py!
+Also, the Google Sheet "Best_Arabic_Novels" (called in line 38 of the scrapbooks.py) should be shared with your own "client_email" (found in the "client_secret.json").
