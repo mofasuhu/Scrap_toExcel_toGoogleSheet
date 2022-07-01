@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+authentication.js
+client_secret.json
+node_modules
+notes/
+**/*-todo.md
+.ipynb_checkpoints/
