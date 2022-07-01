@@ -6,9 +6,11 @@ The following link is a Wikipedia webpage:
 
 listing the 100 best Arabic novels according to the Arab Writers
 Union.
+
 Using Python, do the following:
 1. Scrap the webpage to get the books table and write it to an excel file, keeping all the content of the HTML table, including the hyperlinks.
 2. Write the content to a Google sheet.
 
 It was from the 'Python Technologist Application Test' of Nagwa Company.
+
 And this project was my answer.
