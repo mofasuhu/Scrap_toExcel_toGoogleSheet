@@ -35,6 +35,6 @@ with pd.ExcelWriter('books.xlsx') as writer:
 scope = ['https://spreadsheets.google.com/feeds','https://www.googleapis.com/auth/drive']
 creds = ServiceAccountCredentials.from_json_keyfile_name('client_secret.json', scope)
 client = gspread.authorize(creds)
-sheet = client.open('Arabic_Novels').sheet1
+sheet = client.open('Best_Arabic_Novels').sheet1
 
 sheet.update([df.columns.values.tolist()] + df.values.tolist())
